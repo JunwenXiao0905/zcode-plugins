@@ -1,0 +1,15 @@
+{
+  "name": "junwen-plugins",
+  "plugins": [
+    {
+      "name": "ecc-dev",
+      "source": "./ecc-dev",
+      "version": "0.1.0",
+      "description": "ECC curated subset for Python/TypeScript/Go/Java web development: workflow skills and review subagents",
+      "displayName": "ECC Dev Kit",
+      "displayName_i18n": { "zh-CN": "ECC 精选开发套件" },
+      "description_i18n": { "zh-CN": "源自 everything-claude-code 的精选子集：19 个规划/审查子代理 + 30 个工作流技能，面向 Python/TypeScript/Go/Java Web 开发，ECC rules 已归并去重进技能" },
+      "category": "developer-tools"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "ecc-dev",
+  "version": "0.1.0",
+  "description": "ECC curated subset for Python/TypeScript/Go/Java web development: workflow skills and review subagents",
+  "author": { "name": "JunwenXiao" },
+  "skills": "./skills",
+  "agents": "./agents"
+}
